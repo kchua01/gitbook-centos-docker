@@ -20,3 +20,5 @@ EXPOSE 4000
 
 # Do the thing
 CMD ["/bin/bash", "-c", "${APP_ROOT}/bin/run.sh"]
+
+
